@@ -1,4 +1,4 @@
-package tictactoe
+package go_tictactoe
 
 import (
 	"fmt"
